@@ -13,5 +13,6 @@ To download Xcode 12.3, visit : https://developer.apple.com/xcode/ and download 
 The open source template and/or images I used was from here GitHub, whereby I cloned their existing project to acquire the images that I needed to make this app
 work. I owe credit to them for allowing me to use their images, however everything thereby was hardcoded by yours truly. Link to the template is : https://github.com/appbrewery/Dicee-iOS13 made by AppBrewery.
 
-#### Note : I updated the Dicee App with a new AutoLayout feature after recently learning about it so now in the updated folder, the new Dicee App now supports auto-scaling and won't look as funky on different iOS aspect ratios, now it should look consistent no matter the device and/or aspect ratio.
+### Note : 
+I updated the Dicee App with a new AutoLayout feature after recently learning about it so now in the updated folder, the new Dicee App now supports auto-scaling and won't look as funky on different iOS aspect ratios, now it should look consistent no matter the device and/or aspect ratio.
 
